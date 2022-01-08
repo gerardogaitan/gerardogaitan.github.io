@@ -4,7 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Gerardo Gaitan. I have the following qualities:
+My name is Gerardo Gaitan. I am a Geoscientist with international experience in salt basins. I am polyglot and 
+I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
