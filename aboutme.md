@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Geoscientist and salt tectonics specialist
+subtitle: Geoscientist | Salt tectonics specialist
 ---
 
 My name is Gerardo Gaitan. I am a Geoscientist with international experience in salt basins. I am polyglot and 
